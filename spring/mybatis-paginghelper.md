@@ -244,3 +244,7 @@ mybatis Paging-Helper Test
 Mybatis Paging Helper 라이브러리 테스트 한결과 페이징에 계산에 필요한 내용들이 PageInfo Class에 담겨 있었다. 하지만 문제가 있다 페이징 이라는 것은 전통적으로 쿼리로 시작하여 성능을 끌어 올리는 것인데 이 것은 무슨 통으로 조회한 List를 PageHelper를 통하여 SQL이 아닌 JAVA진영에서 필터링 하는 단점이 있다 지금이야 List양이 적은 서비스나 테이블에서는 상관이 없지만 만건이상에서는 다음과 같은 방법은 반드시 성능에 문제가 될 소지가 있다. JPA에서는 기본으로 페이징 클래스가 들어가 있는거 같은데 역시 JPA를 공부해야 하나보다. 이상끝. ☺ 
 {% endhint %}
 
+{% page-ref page="mybatis-paginghelper.md" %}
+
+
+
