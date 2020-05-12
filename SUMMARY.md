@@ -12,6 +12,6 @@
 
 ## Proxmox
 
-* [Proxmox](proxmox/proxmox.md)
+* [What is Proxmoxy ?](proxmox/what-is-proxmoxy.md)
 * [About-me](about-me.md)
 
