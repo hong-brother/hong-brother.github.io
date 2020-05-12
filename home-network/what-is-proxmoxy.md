@@ -2,7 +2,7 @@
 description: Proxmox는 데비안기반의 운영체제이며 오픈소스 서버 가상화
 ---
 
-# What is Proxmoxy ?
+# 01. What is Proxmoxy ?
 
 ## Proxmox ?
 
