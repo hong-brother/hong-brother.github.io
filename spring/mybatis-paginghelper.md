@@ -2,7 +2,7 @@
 description: Paging Helper Plugin
 ---
 
-# Mybatis-PagingHelper
+# Mybatis-PagingHelper\(작성중\)
 
 Back-end 개발을 많이 해봤지만 그동안 페이징 처리 해본적이 몇번 없었던거 같다. 그 것도 아마 신입일때만 처리해 보고 나머지는 지도 개발 아니면 Paging과 관련 없는 개발을 많이 해왔다. ㅠ 개발 짬밥을 거꾸로 먹은 느낌이랄까? 😰 간만에 페이징 로직을 다시 확인해봤는데 휴 너무나도 귀찮고 힘겨운 일이다. 그래서 이미 누군가 구현해 만들어 놓았다. 별로 어렵지 않아 따라하면 순삭일듯.
 
