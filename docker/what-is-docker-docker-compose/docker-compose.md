@@ -2,7 +2,7 @@
 description: 'Gitlab, jenkins, nexus, postgis Service에 관련된 Compose'
 ---
 
-# Docker-compose\(작성중\)
+# Docker-compose
 
 ## Docker-compose 
 

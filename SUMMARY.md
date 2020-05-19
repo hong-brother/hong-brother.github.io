@@ -5,7 +5,7 @@
 ## Docker
 
 * [What is Docker Docker-Compose?](docker/what-is-docker-docker-compose/README.md)
-  * [Docker-compose\(작성중\)](docker/what-is-docker-docker-compose/docker-compose.md)
+  * [Docker-compose](docker/what-is-docker-docker-compose/docker-compose.md)
 * [What is Docker?](docker/docker.md)
 
 ## Spring
