@@ -8,7 +8,7 @@ description: 매일매일 1일 1commit 유지 하도록 노력!
 
 * 2020-05-23 
 
-  * Spring boot 페이징
+  * Spring boot 페이징 
 
 * 2020-05-24
   * RestService를 이용한 FileUpload 및 FileDownload 
