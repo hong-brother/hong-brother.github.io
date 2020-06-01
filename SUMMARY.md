@@ -13,8 +13,7 @@
 * [Mybatis](spring/mybatis/README.md)
   * [View](spring/mybatis/view/README.md)
     * [Pagination](spring/mybatis/view/pagination.md)
-  * [Mybatis-plus](spring/mybatis/mybatis-plus.md)
-  * [Mybatis-PagingHelper\(작성중\)](spring/mybatis/mybatis-paginghelper.md)
+  * [Mybatis-PagingHelper](spring/mybatis/mybatis-paginghelper.md)
 
 ## Home-Network
 
