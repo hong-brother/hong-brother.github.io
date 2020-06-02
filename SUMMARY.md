@@ -27,3 +27,7 @@
 
 * [Untitled](undefined/untitled.md)
 
+## Git
+
+* [GIT Strategy](git/git-strategy.md)
+
