@@ -25,7 +25,7 @@
 
 ## 다이어리
 
-* [Untitled](undefined/untitled.md)
+* [활동 로그](undefined/untitled.md)
 
 ## Git
 
