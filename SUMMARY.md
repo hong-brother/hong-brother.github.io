@@ -30,4 +30,6 @@
 ## Git
 
 * [GIT Strategy](git/git-strategy.md)
+* [ES6](es6/README.md)
+  * [\[ES6-01\]](es6/es6-01.md)
 
