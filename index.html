@@ -51,6 +51,9 @@
 	<script defer data-domain="hong-brother.github.io" src="https://plausible.io/js/script.pageview-props.js"></script>
 	<script defer data-domain="hong-brother.github.io" src="https://7f94-220-78-254-131.ngrok-free.app/js/script.js"></script>
 	<script defer data-domain="hong-brother.github.io" src="https://plausible.io/js/script.tagged-events.js"></script>
+	<script defer data-domain="hong-brother.github.io" src="https://plausible.io/js/plausible.js"></script>
+	<script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
+		
 
 
 </head>
@@ -158,7 +161,7 @@
 
 						<!-- Started titles -->
 						<div class="title"><span>Nam</span> HongSik</div>
-						<button class="plausible-event-name=about">Click Me</button>
+						<button class="plausible-event-name=Button+Click">Click Me</button>
 						<div class="subtitle">
 							I am 
 							<div class="typing-title">
@@ -1373,6 +1376,27 @@
 		Main Scripts
 	-->
 	<script src="js/scripts.js"></script>
+
+	<script>
+		if (document.monetization) {
+			document.monetization.addEventListener(
+				"monetizationstart",
+				() => {
+					plausible(
+						"MonetizationStart",
+						{
+							props: {
+								path: document.location.pathname
+							}
+						}
+					);
+				},
+				{
+					once: true
+				}
+			);
+		}
+		</script>
 	
 </body>
 </html>
